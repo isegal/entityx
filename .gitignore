@@ -8,3 +8,16 @@ Makefile
 html/
 Vagrantfile
 .vagrant
+
+CMakeCache.txt
+CMakeFiles/
+CTestTestfile.cmake
+cmake_install.cmake
+dependencies_test
+entity_test
+entityx.pc
+event_test
+pool_test
+system_test
+tags_component_test
+
